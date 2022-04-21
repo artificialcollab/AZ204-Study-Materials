@@ -1,0 +1,36 @@
+Azure Key Vault
+---------------
+https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts
+https://docs.microsoft.com/en-us/azure/key-vault/general/about-keys-secrets-certificates
+https://docs.microsoft.com/en-us/azure/key-vault/general/soft-delete-overview
+https://docs.microsoft.com/en-us/powershell/module/az.keyvault/new-azkeyvault?view=azps-4.8.0
+https://docs.microsoft.com/en-us/cli/azure/keyvault/secret?view=azure-cli-latest
+https://docs.microsoft.com/en-us/azure/templates/microsoft.keyvault/vaults
+https://docs.microsoft.com/en-us/azure/key-vault/general/soft-delete-change
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net
+https://docs.microsoft.com/en-us/azure-stack/user/azure-stack-key-vault-deploy-vm-with-secret?view=azs-2005
+https://docs.microsoft.com/en-us/azure/key-vault/general/access-behind-firewall
+https://docs.microsoft.com/en-us/azure/key-vault/general/authentication
+https://docs.microsoft.com/en-us/azure/key-vault/general/key-vault-recovery?tabs=azure-portal
+https://www.ssl.com/article/comparing-ecdsa-vs-rsa/
+
+Azure Key Vault References
+--------------------------
+https://docs.microsoft.com/en-us/azure/app-service/app-service-key-vault-references
+
+
+Installing PowerShell AZ Module
+----------------------------
+https://docs.microsoft.com/en-us/azure/key-vault/general/key-vault-recovery?tabs=azure-powershell
+https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-4.8.0
+
+
+For more managed identity and key vault demos, check the following course demos:
+--------------------------------------------------------------------------------
+https://app.pluralsight.com/library/courses/microsoft-azure-solutions-architect-implement-application-security-strategy/table-of-contents
+
+
+Exam AZ-204
+-----------
+https://docs.microsoft.com/en-us/learn/certifications/exams/az-204
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B

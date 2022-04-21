@@ -1,0 +1,15 @@
+Azure Key Vault
+---------------
+https://docs.microsoft.com/en-us/azure/key-vault/
+
+Quickstart: Azure Key Vault secret client library for .NET (SDK v4)
+-------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net
+
+Quickstart: Azure Key Vault key client library for .NET (SDK v4)
+----------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/key-vault/keys/quick-create-net?tabs=azure-cli
+
+Quickstart: Azure Key Vault certificate client library for .NET (SDK v4)
+------------------------------------------------------------------------
+https://docs.microsoft.com/en-us/azure/key-vault/certificates/quick-create-net

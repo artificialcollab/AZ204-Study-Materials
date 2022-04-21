@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{19E229F4-629F-4691-A1AF-D4F2A06D4596}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RedisConnections/Program.cs">
+    <Files>
+      <File FileName="RedisConnections/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RedisConnections" expanded="True">
+            <Node name="RedisConnections" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RedisConnections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

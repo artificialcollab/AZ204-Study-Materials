@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@ViewBag.error
+
+<div class="text-center">
+    <p style="font-size:xx-large;">
+        Secret colour  (Managed Identity): <b>@ViewBag.secretColour</b>
+    </p>
+    <p style="font-size:xx-large;">
+        Secret name (Key Vault References): <b>@ViewBag.secretPerson</b>
+    </p>
+</div>

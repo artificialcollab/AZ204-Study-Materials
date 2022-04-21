@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EE433D13-0F5D-44DC-8253-37138FED5BF7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CDN_Console/Program.cs">
+    <Files>
+      <File FileName="CDN_Console/Program.cs" Line="59" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CDN_Console" expanded="True" selected="True">
+            <Node name="CDN_Console" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jamesmillar/Desktop/CDN Code/Module 1/CDN_Console/CDN_Conole/Program.cs" relfile="CDN_Conole/Program.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CDN__Console PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

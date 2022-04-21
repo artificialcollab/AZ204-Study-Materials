@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{13D6534A-118B-45BE-9ED5-037D710A6705}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RedisCache/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="RedisCache/appsettings.json" Line="10" Column="5" />
+      <File FileName="RedisCache/appsettings.Development.json" />
+      <File FileName="RedisCache/Controllers/HomeController.cs" />
+      <File FileName="RedisCache/Program.cs" />
+      <File FileName="RedisCache/Startup.cs" />
+      <File FileName="RedisCache/Views/Home/Index.cshtml" Line="21" Column="1" />
+      <File FileName="RedisCache/Models/CacheModel.cs" />
+      <File FileName="RedisCache/Views/Shared/Error.cshtml" />
+      <File FileName="RedisCache/Models/ErrorViewModel.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RedisCache" expanded="True">
+            <Node name="RedisCache" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RedisCache PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

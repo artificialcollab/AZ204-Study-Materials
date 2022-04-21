@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSq+I9lO75w16HtSbh9GVeMkbr2y4ormxfEKTROL8SgVhCmL8ve4smx7c63sOqxmjXwsp0OuwTuD2HOq4K1Yng==",
+  "success": true,
+  "projectFilePath": "/Users/lancehughes/Downloads/microsoft-azure-developer-implement-iaas-solutions/02/demos/demos/webapp/webapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/lancehughes/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/lancehughes/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/lancehughes/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

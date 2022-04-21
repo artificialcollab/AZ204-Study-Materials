@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jamesmillar/Dropbox/Projects/Pluralsight/Courses/Microsoft Azure Developer Integrate Caching and Content Delivery/Course Update/Module 2/M2/after/RedisCache/RedisCache/RedisCache.csproj": {}
+  },
+  "projects": {
+    "/Users/jamesmillar/Dropbox/Projects/Pluralsight/Courses/Microsoft Azure Developer Integrate Caching and Content Delivery/Course Update/Module 2/M2/after/RedisCache/RedisCache/RedisCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jamesmillar/Dropbox/Projects/Pluralsight/Courses/Microsoft Azure Developer Integrate Caching and Content Delivery/Course Update/Module 2/M2/after/RedisCache/RedisCache/RedisCache.csproj",
+        "projectName": "RedisCache",
+        "projectPath": "/Users/jamesmillar/Dropbox/Projects/Pluralsight/Courses/Microsoft Azure Developer Integrate Caching and Content Delivery/Course Update/Module 2/M2/after/RedisCache/RedisCache/RedisCache.csproj",
+        "packagesPath": "/Users/jamesmillar/.nuget/packages/",
+        "outputPath": "/Users/jamesmillar/Dropbox/Projects/Pluralsight/Courses/Microsoft Azure Developer Integrate Caching and Content Delivery/Course Update/Module 2/M2/after/RedisCache/RedisCache/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jamesmillar/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

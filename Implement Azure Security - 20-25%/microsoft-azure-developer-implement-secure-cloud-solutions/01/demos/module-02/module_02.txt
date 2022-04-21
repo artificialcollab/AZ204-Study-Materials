@@ -1,0 +1,6 @@
+https://graph.microsoft.com/
+https://docs.microsoft.com/en-us/graph/
+https://docs.microsoft.com/en-us/graph/overview
+https://www.youtube.com/watch?v=3RzdHookpbs
+https://docs.microsoft.com/en-us/graph/tutorials/dotnet-core
+https://docs.microsoft.com/en-us/graph/tutorials/dotnet-core?tutorial-step=1

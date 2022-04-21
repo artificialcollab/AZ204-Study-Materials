@@ -1,0 +1,23 @@
+﻿@using Microsoft.Identity.Web
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>
+    How to secure a Web API built with ASP.NET Core using the Microsoft identity platform (formerly Azure Active Directory for developers)
+</h1>
+<p>
+    This sample shows how to secure a Web API built with ASP.NET Core using the Microsoft identity platform (formerly Azure Active Directory for developers).The client uses OpenID Connect to sign in users. It leverages the ASP.NET Core OpenID Connect middleware
+    and MSAL.NET.
+</p>
+@if (User.Identity.IsAuthenticated)
+{
+<h3>Claims:</h3>
+<pre>
+    
+    @foreach (var claim in User.Claims)
+    {
+        @(claim.Type + ":" + claim.Value)<br/>
+    }
+</pre>
+}

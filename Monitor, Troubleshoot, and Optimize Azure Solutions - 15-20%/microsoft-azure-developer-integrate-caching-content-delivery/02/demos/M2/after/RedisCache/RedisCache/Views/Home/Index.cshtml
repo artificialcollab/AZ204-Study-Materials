@@ -1,0 +1,20 @@
+﻿@model CacheModel
+@{
+    ViewBag.Title = "Azure Cache for Redis Test";
+}
+
+<h2>@ViewBag.Title</h2>
+<h3>@ViewBag.Message</h3>
+<br />
+<br />
+<table border="1" cellpadding="5">
+
+    <tr>
+        <td>Cache Log</td>
+        <td><pre>@Model.CacheLog</pre></td>
+    </tr>
+    <tr>
+        <td>Cache Clients</td>
+        <td><pre>@Model.CacheClients</pre></td>
+    </tr>
+</table>
